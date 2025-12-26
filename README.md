@@ -1,25 +1,96 @@
-### 👋 Hi, I’m Ludovic NDI
+<!-- =========================
+     PROFILE README — Ludovic NDI
+     ========================= -->
 
-- 🔭 **I’m currently working on**  
-  Secure IoT systems, full-stack web platforms, and cloud-connected architectures with a strong focus on reliability, scalability, and security-by-design. I actively build and experiment with embedded systems (ESP32, Arduino) and backend services used in real-world contexts.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ludovic%20NDI&fontAlign=50&fontAlignY=35&desc=Remote%20Engineer%20|%20IoT%20%26%20Full-Stack%20|%20Cybersecurity%20|%20OSS%20Mindset&descAlign=50&descAlignY=55" alt="header" />
+</div>
 
-- 🌱 **I’m currently learning**  
-  Advanced cybersecurity practices, secure system architecture, threat modeling, and defensive strategies applied to IoT, web, and cloud environments. I am also deepening my understanding of AI-driven systems and their infrastructure.
+<div align="center">
+  <a href="https://github.com/Civodul27">
+    <img src="https://img.shields.io/badge/Open%20to%20Remote-Yes-000000?style=for-the-badge" alt="remote" />
+  </a>
+  <a href="<YOUR_PORTFOLIO_URL>">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/%F0%9F%8E%A4ludovic-ndi-bb268094">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge" alt="linkedin" />
+  </a>
+  <a href="mailto:andrendi57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge" alt="email" />
+  </a>
+</div>
 
-- 👯 **I’m looking to collaborate on**  
-  Open-source projects related to IoT, embedded systems, cybersecurity, distributed systems, and applied AI—especially projects with real-world impact and strong engineering standards.
+<br/>
 
-- 🤔 **I’m looking for help with**  
-  Contributing to large-scale open-source codebases, improving system-level performance, and collaborating with research-oriented teams working on AI, security, or infrastructure challenges.
+<div align="center">
+  <b>IoT & Full-Stack Engineer</b> building secure, connected systems — embedded → backend → cloud.
+  <br/>
+  Cybersecurity-first mindset (Google Cybersecurity Certificate). Remote-ready. OSS-friendly.
+</div>
 
-- 💬 **Ask me about**  
-  IoT architecture, embedded systems, full-stack development, cybersecurity fundamentals, secure system design, and technical education.
+---
 
-- 📫 **How to reach me:**  
-  GitHub Issues / Discussions, LinkedIn, or email (available upon request).
+## About
 
-- 😄 **Pronouns:**  
-  He / Him
+I work at the intersection of **IoT, web platforms, and secure architectures**, with a strong focus on **reliability, maintainability, and security-by-design**. I build and document real-world systems—from embedded devices (Arduino/ESP32) to backend services and cloud-connected applications—while applying practical security principles (threat modeling, defense-in-depth, attack surface reduction).
 
-- ⚡ **Fun fact:**  
-  When I start working on a technical problem, I often lose track of time—debugging, optimizing, and securing systems feels more like a passion than work.
+I’m deeply passionate about **IoT, AI, and Robotics**. When I start solving a technical problem, I often lose track of time—debugging, iterating, and optimizing until the system makes sense end-to-end.
+
+---
+
+## Quick facts (Recruiter-friendly)
+
+- 🔭 **Currently working on:** secure IoT + full-stack systems, prototypes & production-style repos  
+- 🌱 **Currently learning:** advanced cybersecurity, secure architecture, distributed systems, AI infrastructure basics  
+- 👯 **Open to collaborate on:** OSS projects (IoT, embedded, security, distributed systems, applied AI)  
+- 🤔 **Looking for help with:** larger OSS codebases, performance & systems-level optimization, AI-lab workflows  
+- 💬 **Ask me about:** IoT architecture, embedded firmware, APIs, cloud integration, security fundamentals  
+- 📫 **Reach me:** LinkedIn / email  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I can spend hours refining a system until it’s clean, secure, and reproducible.
+
+---
+
+## Tech stack
+
+**Languages:** Python · JavaScript · C/C++ · Bash  
+**Embedded/IoT:** Arduino · ESP32 · Sensors · MQTT · Serial/Network protocols  
+**Backend/Web:** React · Node.js · Express · Firebase  
+**Security:** Network security · hardening · risk analysis · secure architecture  
+**Engineering:** system design · 3D modeling (hardware integration)
+
+---
+
+## Featured work
+
+> Pin your best repos on your GitHub profile and list them here.
+
+- 🔐 **Secure IoT Prototype** — device → broker/API → dashboard  
+- 🌐 **Full-Stack Platform** — auth, database, cloud functions, CI-ready structure  
+- 🧪 **R&D / Experimental** — robotics/AI-related prototypes and system explorations
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Civodul27&show_icons=true&hide_title=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Civodul27&layout=compact" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Civodul27" alt="streak" />
+</div>
+
+---
+
+<details>
+  <summary><b>Notes</b> (what I value in engineering)</summary>
+
+- Reproducible setups (clear README, deterministic steps)
+- Security-first thinking (not bolted on)
+- Clean interfaces, observability, and maintainable structure
+- Practical constraints: latency, power, connectivity, reliability
+
+</details>
