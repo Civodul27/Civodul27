@@ -3,71 +3,87 @@
      ========================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;text=Ludovic%20NDI&amp;fontAlign=50&amp;fontAlignY=35&amp;desc=Remote%20Engineer%20|%20IoT%20%26%20Full-Stack%20|%20Cybersecurity%20|%20OSS%20Mindset&amp;descAlign=50&amp;descAlignY=55" alt="Ludovic NDI Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;text=Ludovic%20NDI&amp;fontAlign=50&amp;fontAlignY=35&amp;desc=Remote%20Engineer%20|%20IoT%20%26%20Full-Stack%20|%20Cybersecurity%20|%20OSS%20Mindset&amp;descAlign=50&amp;descAlignY=55" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/Civodul27">
-    <img src="https://img.shields.io/badge/Open%20to%20Remote-Yes-000000?style=for-the-badge" />
-  </a>
-  <a href="https://www.ludovic.nola.sn/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/%F0%9F%8E%A4ludovic-ndi-bb268094/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge" />
-  </a>
-  <a href="mailto:andrendi57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <b>IoT &amp; Full-Stack Engineer</b> building secure, connected systems — embedded → backend → cloud.<br/>
   Cybersecurity-first mindset (Google Cybersecurity Certificate). Remote-ready. OSS-friendly.
 </div>
 
+<br/>
+
+<!-- SOCIAL ICONS -->
+<div align="center">
+  <a href="https://github.com/Civodul27" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/%F0%9F%8E%A4ludovic-ndi-bb268094/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@alambamaker" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/alambamaker/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@alamba.maker" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:andrendi57@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.ludovic.nola.sn/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="36" />
+  </a>
+</div>
+
+<br/>
+
 ---
 
 ## 👨‍💻 About
 
-I work at the intersection of **IoT, full-stack development, and secure system architecture**, with a strong focus on **reliability, maintainability, and security-by-design**. I design, build, and document real-world systems ranging from embedded devices (Arduino, ESP32) to backend services and cloud-connected platforms.
+I work at the intersection of **IoT, full-stack development, and secure system architecture**, with a strong focus on **reliability, maintainability, and security-by-design**. I design and document real-world systems—from embedded devices (Arduino, ESP32) to backend services and cloud-connected platforms.
 
-I am deeply passionate about **IoT, Artificial Intelligence, and Robotics**. When I start solving a technical problem, I often lose track of time—debugging, iterating, and refining systems until I understand them end-to-end, from hardware signals to application logic.
+I am deeply passionate about **IoT, Artificial Intelligence, and Robotics**. When I start solving a technical problem, I often lose track of time—debugging, iterating, and refining systems until I understand them end-to-end.
 
-Security is not an afterthought in my work. I apply practical cybersecurity principles such as **threat modeling, defense-in-depth, and attack surface reduction**, reinforced by my **Google Cybersecurity Certificate**.
+Security is a core pillar of my work. I apply practical cybersecurity principles such as **threat modeling, defense-in-depth, and attack surface reduction**, reinforced by my **Google Cybersecurity Certificate**.
 
 ---
 
 ## 🧭 Quick facts (Recruiter-friendly)
 
-- 🔭 **Currently working on:** secure IoT systems and production-style full-stack projects  
-- 🌱 **Currently learning:** advanced cybersecurity, secure architecture, distributed systems, AI infrastructure  
-- 👯 **Open to collaborate on:** open-source projects (IoT, embedded, cybersecurity, distributed systems, applied AI)  
-- 🤔 **Looking for help with:** large OSS codebases, systems-level optimization, AI-lab workflows  
-- 💬 **Ask me about:** IoT architecture, embedded firmware, APIs, cloud integration, security fundamentals  
-- 📫 **Reach me:** LinkedIn or email  
-- 😄 **Pronouns:** He / Him  
-- ⚡ **Fun fact:** I can spend hours refining a system until it is clean, secure, and reproducible
+- 🔭 Currently working on **secure IoT and full-stack systems**
+- 🌱 Learning **advanced cybersecurity, distributed systems, AI infrastructure**
+- 👯 Open to collaborate on **open-source &amp; deep-tech projects**
+- 💬 Ask me about **IoT, embedded systems, APIs, security**
+- 📫 Reach me via **LinkedIn or email**
+- ⚡ Fun fact: I lose track of time when debugging systems
 
 ---
 
 ## 🛠️ Tech stack
 
 **Languages:** Python · JavaScript · C/C++ · Bash  
-**Embedded / IoT:** Arduino · ESP32 · Sensors · MQTT · Serial &amp; Network protocols  
+**Embedded / IoT:** Arduino · ESP32 · MQTT · Sensors  
 **Backend / Web:** React · Node.js · Express · Firebase  
-**Security:** Network security · system hardening · risk analysis · secure architecture  
-**Engineering:** system design · 3D modeling (hardware integration)
+**Security:** Threat modeling · hardening · secure architecture  
+**Engineering:** system design · 3D modeling
 
 ---
 
 ## 📌 Featured work
 
-- 🔐 **Secure IoT Prototype** — device → broker / API → dashboard  
-- 🌐 **Full-Stack Platform** — authentication, database, cloud functions, CI-ready structure  
-- 🧪 **R&amp;D / Experimental** — robotics, AI-related prototypes, system exploration
+- 🔐 **Secure IoT Prototype** — device → broker/API → dashboard  
+- 🌐 **Full-Stack Platform** — auth, database, cloud functions  
+- 🧪 **R&amp;D / Experimental** — robotics &amp; AI prototypes
 
 ---
 
@@ -85,19 +101,11 @@ Security is not an afterthought in my work. I apply practical cybersecurity prin
 ---
 
 <details>
-  <summary><b>Notes — what I value in engineering</b></summary>
+  <summary><b>What I value in engineering</b></summary>
 
-- Reproducible setups (clear README, deterministic steps)
-- Security-first thinking (never bolted on)
-- Clean interfaces, observability, maintainable structure
-- Real-world constraints: latency, power, connectivity, reliability
+- Security-first design
+- Reproducible systems
+- Clean, maintainable code
+- Real-world constraints awareness
 
 </details>
-
----
-
-### 🌍 Find me elsewhere
-- 🌐 Portfolio: https://www.ludovic.nola.sn/
-- ▶️ YouTube: https://www.youtube.com/@alambamaker
-- 📘 Facebook: https://www.facebook.com/alambamaker/
-- 🎵 TikTok: https://www.tiktok.com/@alamba.maker
