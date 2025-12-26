@@ -68,7 +68,7 @@ I’m deeply passionate about **IoT, AI, and Robotics**. When I start solving a 
 
 - 🔐 **Secure IoT Prototype** — device → broker/API → dashboard  
 - 🌐 **Full-Stack Platform** — auth, database, cloud functions, CI-ready structure  
-- 🧪 **R&D / Experimental** — robotics/AI-related prototypes and system explorations
+- 🧪 **R&amp;D / Experimental** — robotics/AI-related prototypes and system explorations
 
 ---
 
