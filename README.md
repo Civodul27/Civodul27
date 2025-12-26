@@ -12,37 +12,37 @@
 </div>
 
 <br/>
-<!-- SOCIAL ICONS (GitHub-safe) -->
+
+<!-- SOCIAL ICONS -->
 <div align="center">
   <a href="https://github.com/Civodul27" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/%F0%9F%8E%A4ludovic-ndi-bb268094/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@alambamaker" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/alambamaker/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@alamba.maker" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" width="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:andrendi57@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ludovic.nola.sn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" width="32" />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="36" />
   </a>
 </div>
-
 
 <br/>
 
