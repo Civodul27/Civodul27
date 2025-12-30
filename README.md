@@ -30,10 +30,7 @@
   <a href="https://www.facebook.com/alambamaker/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@alamba.maker" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" width="36" />
-  </a>
+
   &nbsp;&nbsp;
   <a href="mailto:andrendi57@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" />
